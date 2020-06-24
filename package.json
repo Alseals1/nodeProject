@@ -1,0 +1,15 @@
+{
+  "name": "nodejsproject",
+  "version": "1.0.0",
+  "description": "Having Some Node Fun!",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alandis Seals",
+  "license": "ISC",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.5"
+  }
+}
